@@ -56,7 +56,7 @@ python sistema_bancario.py
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [**Wendell Ribeiro Nogueira**]([https://github.com/wendellribeironogueira](https://www.linkedin.com/in/wendell-ribeiro-nogueira-2a285723/)) 🧠💻
+Desenvolvido por [**Wendell Ribeiro Nogueira**]([https://www.linkedin.com/in/wendell-ribeiro-nogueira-2a285723/]) 🧠💻
 
 ## 🏆 Créditos
 
